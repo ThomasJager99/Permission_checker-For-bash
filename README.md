@@ -1,6 +1,6 @@
 # 🔐 permission_checker.sh
 
-A simple Bash script to scan a specified directory for `.sh` files and add execution permissions (c$
+A simple Bash script to scan a specified directory for `.sh` files and add execution permissions
 
 ---
 
@@ -8,7 +8,7 @@ A simple Bash script to scan a specified directory for `.sh` files and add execu
 
 1. **Edit the target path in the script**:
    ```bash
-   cd /home/user/Thomas-Jager/Scripts_for_bash/
+   cd /home/user/Your_dir
    ```
    Replace this with your desired directory path.
 
